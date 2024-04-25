@@ -1,9 +1,9 @@
 {
   "name": "alir61-word-counter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "publishConfig": {
     "access": "public"
   },
@@ -17,9 +17,6 @@
   "devDependencies": {
     "@types/inquirer": "^9.0.7",
     "@types/node": "^20.12.7"
-  },
-  "dependencies": {
-    "chalk": "^5.3.0",
-    "inquirer": "^9.2.19"
   }
+
 }
